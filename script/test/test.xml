@@ -1,0 +1,4414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>
+    Listing of all public variants in the ANO5 gene database
+  </title>
+  <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/"/>
+  <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/unique"/>
+  <updated>1970-01-01T01:00:00+01:00</updated>
+  <id>tag:databases.lovd.nl,2013-05-03:web01:wholegenome/REST_api</id>
+  <generator uri="http://www.LOVD.nl/" version="3.0-10">
+    Leiden Open Variation Database
+  </generator>
+  <rights>Copyright (c), the curators of this database</rights>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.-39T&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000001"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073936"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073936</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.-39
+      position_genomic:chr11:22215000
+      Variant/DNA:c.-39T&gt;A
+      Variant/DBID:ANO5_000001
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.-1G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000002"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073937"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073937</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.-1
+      position_genomic:chr11:22215038
+      Variant/DNA:c.-1G&gt;A
+      Variant/DBID:ANO5_000002
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.11C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000003"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073938"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073938</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.11
+      position_genomic:chr11:22215049
+      Variant/DNA:c.11C&gt;G
+      Variant/DBID:ANO5_000003
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.32C&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000004"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073939"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073939</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.32
+      position_genomic:chr11:22215070
+      Variant/DNA:c.32C&gt;A
+      Variant/DBID:ANO5_000004
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.40+26del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000005"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073940"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073940</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.40+26
+      position_genomic:chr11:22215104
+      Variant/DNA:c.40+26del
+      Variant/DBID:ANO5_000005
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.40+42C&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000006"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073941"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073941</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.40+42
+      position_genomic:chr11:22215120
+      Variant/DNA:c.40+42C&gt;A
+      Variant/DBID:ANO5_000006
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.40+64G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000007"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073942"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073942</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.40+64
+      position_genomic:chr11:22215142
+      Variant/DNA:c.40+64G&gt;T
+      Variant/DBID:ANO5_000007
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.84T&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000008"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073943"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073943</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.84
+      position_genomic:chr11:22225393
+      Variant/DNA:c.84T&gt;A
+      Variant/DBID:ANO5_000008
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.88-48C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000009"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073944"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073944</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.88-48
+      position_genomic:chr11:22232762
+      Variant/DNA:c.88-48C&gt;T
+      Variant/DBID:ANO5_000009
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.129A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000010"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073945"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073945</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.129
+      position_genomic:chr11:22232851
+      Variant/DNA:c.129A&gt;G
+      Variant/DBID:ANO5_000010
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.138+10G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000011"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073946"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073946</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.138+10
+      position_genomic:chr11:22232870
+      Variant/DNA:c.138+10G&gt;T
+      Variant/DBID:ANO5_000011
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.138+17A&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000012"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073947"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073947</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.138+17
+      position_genomic:chr11:22232877
+      Variant/DNA:c.138+17A&gt;C
+      Variant/DBID:ANO5_000012
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.138+23C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000013"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073948"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073948</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.138+23
+      position_genomic:chr11:22232883
+      Variant/DNA:c.138+23C&gt;T
+      Variant/DBID:ANO5_000013
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.138+35G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000014"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073949"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073949</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.138+35
+      position_genomic:chr11:22232895
+      Variant/DNA:c.138+35G&gt;A
+      Variant/DBID:ANO5_000014
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.138+44G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000015"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073950"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073950</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.138+44
+      position_genomic:chr11:22232904
+      Variant/DNA:c.138+44G&gt;T
+      Variant/DBID:ANO5_000015
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.138+45G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000016"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073951"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073951</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.138+45
+      position_genomic:chr11:22232905
+      Variant/DNA:c.138+45G&gt;A
+      Variant/DBID:ANO5_000016
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.139-66del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000018"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073953"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073953</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.139-66
+      position_genomic:chr11:22239726
+      Variant/DNA:c.139-66del
+      Variant/DBID:ANO5_000018
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.139-66dup</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000017"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073952"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073952</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.139-66
+      position_genomic:chr11:22239726
+      Variant/DNA:c.139-66dup
+      Variant/DBID:ANO5_000017
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.139-1del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000019"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073954"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073954</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.139-1
+      position_genomic:chr11:22239791
+      Variant/DNA:c.139-1del
+      Variant/DBID:ANO5_000019
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.139C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000020"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073955"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073955</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.139
+      position_genomic:chr11:22239792
+      Variant/DNA:c.139C&gt;T
+      Variant/DBID:ANO5_000020
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.149G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000021"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073956"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073956</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.149
+      position_genomic:chr11:22239802
+      Variant/DNA:c.149G&gt;A
+      Variant/DBID:ANO5_000021
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.155A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000022"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073957"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073957</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.155
+      position_genomic:chr11:22239808
+      Variant/DNA:c.155A&gt;G
+      Variant/DBID:ANO5_000022
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.172C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000023"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073958"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073958</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.172
+      position_genomic:chr11:22239825
+      Variant/DNA:c.172C&gt;T
+      Variant/DBID:ANO5_000023
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.180+21T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000025"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073959"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073959</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.180+21
+      position_genomic:chr11:22239854
+      Variant/DNA:c.180+21T&gt;C
+      Variant/DBID:ANO5_000025
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.181-22G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000027"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073960"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073960</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.181-22
+      position_genomic:chr11:22242621
+      Variant/DNA:c.181-22G&gt;A
+      Variant/DBID:ANO5_000027
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.181-4G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000024"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073961"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073961</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.181-4
+      position_genomic:chr11:22242639
+      Variant/DNA:c.181-4G&gt;A
+      Variant/DBID:ANO5_000024
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.184_185insA</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000026"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073962"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073962</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.184_185
+      position_genomic:chr11:22242646_22242647
+      Variant/DNA:c.184_185insA
+      Variant/DBID:ANO5_000026
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.226G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000028"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073963"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073963</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.226
+      position_genomic:chr11:22242688
+      Variant/DNA:c.226G&gt;A
+      Variant/DBID:ANO5_000028
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.259G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000029"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073964"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073964</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.259
+      position_genomic:chr11:22242721
+      Variant/DNA:c.259G&gt;A
+      Variant/DBID:ANO5_000029
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.267T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000030"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073965"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073965</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.267
+      position_genomic:chr11:22242729
+      Variant/DNA:c.267T&gt;C
+      Variant/DBID:ANO5_000030
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.271A&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000031"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073966"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073966</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.271
+      position_genomic:chr11:22242733
+      Variant/DNA:c.271A&gt;T
+      Variant/DBID:ANO5_000031
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.276A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000032"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073967"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073967</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.276
+      position_genomic:chr11:22242738
+      Variant/DNA:c.276A&gt;G
+      Variant/DBID:ANO5_000032
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.279C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000033"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073968"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073968</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.279
+      position_genomic:chr11:22242741
+      Variant/DNA:c.279C&gt;T
+      Variant/DBID:ANO5_000033
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.280G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000034"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073969"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073969</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.280
+      position_genomic:chr11:22242742
+      Variant/DNA:c.280G&gt;A
+      Variant/DBID:ANO5_000034
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.294G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000035"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073970"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073970</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.294
+      position_genomic:chr11:22242756
+      Variant/DNA:c.294G&gt;A
+      Variant/DBID:ANO5_000035
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.294+7G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000036"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073971"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073971</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.294+7
+      position_genomic:chr11:22242763
+      Variant/DNA:c.294+7G&gt;T
+      Variant/DBID:ANO5_000036
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.294+9A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000037"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073972"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073972</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.294+9
+      position_genomic:chr11:22242765
+      Variant/DNA:c.294+9A&gt;G
+      Variant/DBID:ANO5_000037
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.294+12A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000038"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073973"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073973</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.294+12
+      position_genomic:chr11:22242768
+      Variant/DNA:c.294+12A&gt;G
+      Variant/DBID:ANO5_000038
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.295-16del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000041"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073975"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073975</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.295-16
+      position_genomic:chr11:22247514
+      Variant/DNA:c.295-16del
+      Variant/DBID:ANO5_000041
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.295-16dup</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000039"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073974"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073974</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.295-16
+      position_genomic:chr11:22247514
+      Variant/DNA:c.295-16dup
+      Variant/DBID:ANO5_000039
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.364-39C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000043"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073976"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073976</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.364-39
+      position_genomic:chr11:22248809
+      Variant/DNA:c.364-39C&gt;G
+      Variant/DBID:ANO5_000043
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.364-36del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000045"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073977"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073977</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.364-36
+      position_genomic:chr11:22248812
+      Variant/DNA:c.364-36del
+      Variant/DBID:ANO5_000045
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.364-15del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000047"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073978"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073978</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.364-15
+      position_genomic:chr11:22248833
+      Variant/DNA:c.364-15del
+      Variant/DBID:ANO5_000047
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.385T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000049"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073979"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073979</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.385
+      position_genomic:chr11:22248869
+      Variant/DNA:c.385T&gt;C
+      Variant/DBID:ANO5_000049
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.396G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000051"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073980"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073980</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.396
+      position_genomic:chr11:22248880
+      Variant/DNA:c.396G&gt;A
+      Variant/DBID:ANO5_000051
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.463G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000053"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073981"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073981</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.463
+      position_genomic:chr11:22248947
+      Variant/DNA:c.463G&gt;A
+      Variant/DBID:ANO5_000053
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.478C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000055"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073982"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073982</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.478
+      position_genomic:chr11:22248962
+      Variant/DNA:c.478C&gt;T
+      Variant/DBID:ANO5_000055
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.479G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000058"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073983"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073983</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.479
+      position_genomic:chr11:22248963
+      Variant/DNA:c.479G&gt;A
+      Variant/DBID:ANO5_000058
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.508C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000059"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073984"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073984</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.508
+      position_genomic:chr11:22248992
+      Variant/DNA:c.508C&gt;G
+      Variant/DBID:ANO5_000059
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.525C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000061"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073985"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073985</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.525
+      position_genomic:chr11:22249009
+      Variant/DNA:c.525C&gt;G
+      Variant/DBID:ANO5_000061
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.533G&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000040"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073986"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073986</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.533
+      position_genomic:chr11:22249017
+      Variant/DNA:c.533G&gt;C
+      Variant/DBID:ANO5_000040
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.553G&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000042"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073987"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073987</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.553
+      position_genomic:chr11:22249037
+      Variant/DNA:c.553G&gt;C
+      Variant/DBID:ANO5_000042
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.570A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000044"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073988"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073988</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.570
+      position_genomic:chr11:22249054
+      Variant/DNA:c.570A&gt;G
+      Variant/DBID:ANO5_000044
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.581A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000046"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073989"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073989</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.581
+      position_genomic:chr11:22249065
+      Variant/DNA:c.581A&gt;G
+      Variant/DBID:ANO5_000046
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.583C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000048"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073990"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073990</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.583
+      position_genomic:chr11:22249067
+      Variant/DNA:c.583C&gt;T
+      Variant/DBID:ANO5_000048
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.584G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000050"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073991"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073991</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.584
+      position_genomic:chr11:22249068
+      Variant/DNA:c.584G&gt;A
+      Variant/DBID:ANO5_000050
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.604G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000052"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073992"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073992</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.604
+      position_genomic:chr11:22249088
+      Variant/DNA:c.604G&gt;A
+      Variant/DBID:ANO5_000052
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.616A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000054"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073993"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073993</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.616
+      position_genomic:chr11:22249100
+      Variant/DNA:c.616A&gt;G
+      Variant/DBID:ANO5_000054
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.618_620del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000056"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073994"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073994</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.618_620
+      position_genomic:chr11:22249102_22249104
+      Variant/DNA:c.618_620del
+      Variant/DBID:ANO5_000056
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.680G&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000057"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073995"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073995</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.680
+      position_genomic:chr11:22257740
+      Variant/DNA:c.680G&gt;C
+      Variant/DBID:ANO5_000057
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.689A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000060"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073996"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073996</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.689
+      position_genomic:chr11:22257749
+      Variant/DNA:c.689A&gt;G
+      Variant/DBID:ANO5_000060
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.692G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000062"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073997"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073997</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.692
+      position_genomic:chr11:22257752
+      Variant/DNA:c.692G&gt;T
+      Variant/DBID:ANO5_000062
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.720G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000063"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073998"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073998</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.720
+      position_genomic:chr11:22257780
+      Variant/DNA:c.720G&gt;T
+      Variant/DBID:ANO5_000063
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.762+1G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000064"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001073999"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001073999</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.762+1
+      position_genomic:chr11:22257823
+      Variant/DNA:c.762+1G&gt;A
+      Variant/DBID:ANO5_000064
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.762+50T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000065"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074000"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074000</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.762+50
+      position_genomic:chr11:22257872
+      Variant/DNA:c.762+50T&gt;C
+      Variant/DBID:ANO5_000065
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.763-46G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000066"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074001"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074001</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.763-46
+      position_genomic:chr11:22261069
+      Variant/DNA:c.763-46G&gt;T
+      Variant/DBID:ANO5_000066
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.763-25G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000067"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074002"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074002</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.763-25
+      position_genomic:chr11:22261090
+      Variant/DNA:c.763-25G&gt;A
+      Variant/DBID:ANO5_000067
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.794A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000068"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074003"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074003</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.794
+      position_genomic:chr11:22261146
+      Variant/DNA:c.794A&gt;G
+      Variant/DBID:ANO5_000068
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.800C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000069"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074004"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074004</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.800
+      position_genomic:chr11:22261152
+      Variant/DNA:c.800C&gt;G
+      Variant/DBID:ANO5_000069
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.816A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000070"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074005"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074005</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.816
+      position_genomic:chr11:22261168
+      Variant/DNA:c.816A&gt;G
+      Variant/DBID:ANO5_000070
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.852C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000071"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074006"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074006</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.852
+      position_genomic:chr11:22261204
+      Variant/DNA:c.852C&gt;G
+      Variant/DBID:ANO5_000071
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.878+43T&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000072"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074007"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074007</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.878+43
+      position_genomic:chr11:22261273
+      Variant/DNA:c.878+43T&gt;G
+      Variant/DBID:ANO5_000072
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.879-46A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000073"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074008"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074008</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.879-46
+      position_genomic:chr11:22271737
+      Variant/DNA:c.879-46A&gt;G
+      Variant/DBID:ANO5_000073
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.879-41A&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000074"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074009"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074009</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.879-41
+      position_genomic:chr11:22271742
+      Variant/DNA:c.879-41A&gt;T
+      Variant/DBID:ANO5_000074
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.879-18T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000075"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074010"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074010</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.879-18
+      position_genomic:chr11:22271765
+      Variant/DNA:c.879-18T&gt;C
+      Variant/DBID:ANO5_000075
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.879-10_879-9del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000076"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074011"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074011</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.879-10
+      position_genomic:chr11:22271773_22271774
+      Variant/DNA:c.879-10_879-9del
+      Variant/DBID:ANO5_000076
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.966A&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000077"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074012"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074012</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.966
+      position_genomic:chr11:22271870
+      Variant/DNA:c.966A&gt;T
+      Variant/DBID:ANO5_000077
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.989T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000078"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074013"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074013</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.989
+      position_genomic:chr11:22271893
+      Variant/DNA:c.989T&gt;C
+      Variant/DBID:ANO5_000078
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.996G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000079"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074014"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074014</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.996
+      position_genomic:chr11:22271900
+      Variant/DNA:c.996G&gt;A
+      Variant/DBID:ANO5_000079
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1013+29G&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000080"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074015"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074015</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1013+29
+      position_genomic:chr11:22271946
+      Variant/DNA:c.1013+29G&gt;C
+      Variant/DBID:ANO5_000080
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1013+41A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000081"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074016"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074016</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1013+41
+      position_genomic:chr11:22271958
+      Variant/DNA:c.1013+41A&gt;G
+      Variant/DBID:ANO5_000081
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1013+51A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000082"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074017"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074017</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1013+51
+      position_genomic:chr11:22271968
+      Variant/DNA:c.1013+51A&gt;G
+      Variant/DBID:ANO5_000082
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1014-45C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000083"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074018"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074018</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1014-45
+      position_genomic:chr11:22272242
+      Variant/DNA:c.1014-45C&gt;T
+      Variant/DBID:ANO5_000083
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1029C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000084"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074019"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074019</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1029
+      position_genomic:chr11:22272302
+      Variant/DNA:c.1029C&gt;T
+      Variant/DBID:ANO5_000084
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1036A&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000085"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074020"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074020</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1036
+      position_genomic:chr11:22272309
+      Variant/DNA:c.1036A&gt;C
+      Variant/DBID:ANO5_000085
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1050G&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000086"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074021"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074021</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1050
+      position_genomic:chr11:22272323
+      Variant/DNA:c.1050G&gt;C
+      Variant/DBID:ANO5_000086
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1095A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000087"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074022"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074022</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1095
+      position_genomic:chr11:22272368
+      Variant/DNA:c.1095A&gt;G
+      Variant/DBID:ANO5_000087
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1116A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000088"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074023"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074023</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1116
+      position_genomic:chr11:22272389
+      Variant/DNA:c.1116A&gt;G
+      Variant/DBID:ANO5_000088
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1120-24A&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000089"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074024"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074024</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1120-24
+      position_genomic:chr11:22272473
+      Variant/DNA:c.1120-24A&gt;T
+      Variant/DBID:ANO5_000089
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1120-23T&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000090"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074025"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074025</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1120-23
+      position_genomic:chr11:22272474
+      Variant/DNA:c.1120-23T&gt;A
+      Variant/DBID:ANO5_000090
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1125C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000092"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074026"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074026</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1125
+      position_genomic:chr11:22272502
+      Variant/DNA:c.1125C&gt;T
+      Variant/DBID:ANO5_000092
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1180+38T&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000094"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074027"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074027</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1180+38
+      position_genomic:chr11:22272595
+      Variant/DNA:c.1180+38T&gt;A
+      Variant/DBID:ANO5_000094
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1180+43A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000096"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074028"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074028</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1180+43
+      position_genomic:chr11:22272600
+      Variant/DNA:c.1180+43A&gt;G
+      Variant/DBID:ANO5_000096
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1180+46T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000098"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074029"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074029</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1180+46
+      position_genomic:chr11:22272603
+      Variant/DNA:c.1180+46T&gt;C
+      Variant/DBID:ANO5_000098
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1181-29_1181-28insT</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000100"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074030"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074030</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1181-29
+      position_genomic:chr11:22276888_22276889
+      Variant/DNA:c.1181-29_1181-28insT
+      Variant/DBID:ANO5_000100
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1181-21T&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000103"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074031"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074031</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1181-21
+      position_genomic:chr11:22276896
+      Variant/DNA:c.1181-21T&gt;A
+      Variant/DBID:ANO5_000103
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1201T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000105"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074032"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074032</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1201
+      position_genomic:chr11:22276937
+      Variant/DNA:c.1201T&gt;C
+      Variant/DBID:ANO5_000105
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1211G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000107"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074033"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074033</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1211
+      position_genomic:chr11:22276947
+      Variant/DNA:c.1211G&gt;A
+      Variant/DBID:ANO5_000107
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1213C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000109"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074034"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074034</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1213
+      position_genomic:chr11:22276949
+      Variant/DNA:c.1213C&gt;T
+      Variant/DBID:ANO5_000109
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1251T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000110"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074035"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074035</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1251
+      position_genomic:chr11:22276987
+      Variant/DNA:c.1251T&gt;C
+      Variant/DBID:ANO5_000110
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1332+8A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000091"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074036"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074036</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1332+8
+      position_genomic:chr11:22277076
+      Variant/DNA:c.1332+8A&gt;G
+      Variant/DBID:ANO5_000091
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1332+23G&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000093"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074037"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074037</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1332+23
+      position_genomic:chr11:22277091
+      Variant/DNA:c.1332+23G&gt;C
+      Variant/DBID:ANO5_000093
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1332+38A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000095"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074038"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074038</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1332+38
+      position_genomic:chr11:22277106
+      Variant/DNA:c.1332+38A&gt;G
+      Variant/DBID:ANO5_000095
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1332+39T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000097"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074039"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074039</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1332+39
+      position_genomic:chr11:22277107
+      Variant/DNA:c.1332+39T&gt;C
+      Variant/DBID:ANO5_000097
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1332+46A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000099"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074040"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074040</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1332+46
+      position_genomic:chr11:22277114
+      Variant/DNA:c.1332+46A&gt;G
+      Variant/DBID:ANO5_000099
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1333-31G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000101"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074041"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074041</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1333-31
+      position_genomic:chr11:22279195
+      Variant/DNA:c.1333-31G&gt;T
+      Variant/DBID:ANO5_000101
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1333-19G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000102"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074042"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074042</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1333-19
+      position_genomic:chr11:22279207
+      Variant/DNA:c.1333-19G&gt;A
+      Variant/DBID:ANO5_000102
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1361C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000104"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074043"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074043</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1361
+      position_genomic:chr11:22279254
+      Variant/DNA:c.1361C&gt;T
+      Variant/DBID:ANO5_000104
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1378T&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000106"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074044"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074044</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1378
+      position_genomic:chr11:22279271
+      Variant/DNA:c.1378T&gt;G
+      Variant/DBID:ANO5_000106
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1380T&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000108"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074045"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074045</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1380
+      position_genomic:chr11:22279273
+      Variant/DNA:c.1380T&gt;A
+      Variant/DBID:ANO5_000108
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1407+38C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000111"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074046"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074046</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1407+38
+      position_genomic:chr11:22279338
+      Variant/DNA:c.1407+38C&gt;T
+      Variant/DBID:ANO5_000111
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1407+64A&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000113"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074047"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074047</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1407+64
+      position_genomic:chr11:22279364
+      Variant/DNA:c.1407+64A&gt;C
+      Variant/DBID:ANO5_000113
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1408-24C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000115"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074048"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074048</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1408-24
+      position_genomic:chr11:22281041
+      Variant/DNA:c.1408-24C&gt;T
+      Variant/DBID:ANO5_000115
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1468A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000117"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074049"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074049</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1468
+      position_genomic:chr11:22281125
+      Variant/DNA:c.1468A&gt;G
+      Variant/DBID:ANO5_000117
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1514A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000119"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074050"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074050</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1514
+      position_genomic:chr11:22281171
+      Variant/DNA:c.1514A&gt;G
+      Variant/DBID:ANO5_000119
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1516A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000121"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074051"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074051</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1516
+      position_genomic:chr11:22281173
+      Variant/DNA:c.1516A&gt;G
+      Variant/DBID:ANO5_000121
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1545A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000123"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074052"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074052</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1545
+      position_genomic:chr11:22281202
+      Variant/DNA:c.1545A&gt;G
+      Variant/DBID:ANO5_000123
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1551A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000125"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074053"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074053</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1551
+      position_genomic:chr11:22281208
+      Variant/DNA:c.1551A&gt;G
+      Variant/DBID:ANO5_000125
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1578C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000127"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074054"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074054</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1578
+      position_genomic:chr11:22281235
+      Variant/DNA:c.1578C&gt;G
+      Variant/DBID:ANO5_000127
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1630+27T&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000129"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074055"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074055</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1630+27
+      position_genomic:chr11:22281314
+      Variant/DNA:c.1630+27T&gt;G
+      Variant/DBID:ANO5_000129
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1631-37_1631-35del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000131"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074056"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074056</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1631-37
+      position_genomic:chr11:22283638_22283640
+      Variant/DNA:c.1631-37_1631-35del
+      Variant/DBID:ANO5_000131
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1631-35G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000133"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074057"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074057</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1631-35
+      position_genomic:chr11:22283640
+      Variant/DNA:c.1631-35G&gt;A
+      Variant/DBID:ANO5_000133
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1631-20_1631-19insT</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000136"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074058"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074058</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1631-20
+      position_genomic:chr11:22283655_22283656
+      Variant/DNA:c.1631-20_1631-19insT
+      Variant/DBID:ANO5_000136
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1640G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000137"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074059"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074059</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1640
+      position_genomic:chr11:22283684
+      Variant/DNA:c.1640G&gt;A
+      Variant/DBID:ANO5_000137
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1664G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000140"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074060"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074060</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1664
+      position_genomic:chr11:22283708
+      Variant/DNA:c.1664G&gt;T
+      Variant/DBID:ANO5_000140
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1695T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000112"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074061"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074061</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1695
+      position_genomic:chr11:22283739
+      Variant/DNA:c.1695T&gt;C
+      Variant/DBID:ANO5_000112
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1716C&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000114"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074062"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074062</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1716
+      position_genomic:chr11:22283760
+      Variant/DNA:c.1716C&gt;A
+      Variant/DBID:ANO5_000114
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1733T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000116"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074063"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074063</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1733
+      position_genomic:chr11:22283777
+      Variant/DNA:c.1733T&gt;C
+      Variant/DBID:ANO5_000116
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1747G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000118"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074064"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074064</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1747
+      position_genomic:chr11:22283791
+      Variant/DNA:c.1747G&gt;A
+      Variant/DBID:ANO5_000118
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1760G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000120"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074065"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074065</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1760
+      position_genomic:chr11:22283804
+      Variant/DNA:c.1760G&gt;A
+      Variant/DBID:ANO5_000120
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1800+16A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000122"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074066"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074066</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1800+16
+      position_genomic:chr11:22283860
+      Variant/DNA:c.1800+16A&gt;G
+      Variant/DBID:ANO5_000122
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1800+23A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000124"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074067"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074067</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1800+23
+      position_genomic:chr11:22283867
+      Variant/DNA:c.1800+23A&gt;G
+      Variant/DBID:ANO5_000124
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1800+26T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000126"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074068"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074068</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1800+26
+      position_genomic:chr11:22283870
+      Variant/DNA:c.1800+26T&gt;C
+      Variant/DBID:ANO5_000126
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1800+39del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000128"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074069"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074069</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1800+39
+      position_genomic:chr11:22283883
+      Variant/DNA:c.1800+39del
+      Variant/DBID:ANO5_000128
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1801-32A&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000130"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074070"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074070</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1801-32
+      position_genomic:chr11:22284460
+      Variant/DNA:c.1801-32A&gt;T
+      Variant/DBID:ANO5_000130
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1839A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000132"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074071"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074071</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1839
+      position_genomic:chr11:22284530
+      Variant/DNA:c.1839A&gt;G
+      Variant/DBID:ANO5_000132
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1845C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000134"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074072"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074072</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1845
+      position_genomic:chr11:22284536
+      Variant/DNA:c.1845C&gt;T
+      Variant/DBID:ANO5_000134
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1898+1G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000135"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074073"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074073</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1898+1
+      position_genomic:chr11:22284590
+      Variant/DNA:c.1898+1G&gt;A
+      Variant/DBID:ANO5_000135
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1898+29G&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000138"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074074"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074074</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1898+29
+      position_genomic:chr11:22284618
+      Variant/DNA:c.1898+29G&gt;T
+      Variant/DBID:ANO5_000138
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1899-51C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000139"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074075"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074075</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1899-51
+      position_genomic:chr11:22291807
+      Variant/DNA:c.1899-51C&gt;T
+      Variant/DBID:ANO5_000139
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1921C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000141"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074076"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074076</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1921
+      position_genomic:chr11:22291880
+      Variant/DNA:c.1921C&gt;T
+      Variant/DBID:ANO5_000141
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1924C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000142"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074077"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074077</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1924
+      position_genomic:chr11:22291883
+      Variant/DNA:c.1924C&gt;G
+      Variant/DBID:ANO5_000142
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1933C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000143"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074078"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074078</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1933
+      position_genomic:chr11:22291892
+      Variant/DNA:c.1933C&gt;T
+      Variant/DBID:ANO5_000143
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1941C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000144"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074079"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074079</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1941
+      position_genomic:chr11:22291900
+      Variant/DNA:c.1941C&gt;T
+      Variant/DBID:ANO5_000144
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1957A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000145"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074080"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074080</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1957
+      position_genomic:chr11:22291916
+      Variant/DNA:c.1957A&gt;G
+      Variant/DBID:ANO5_000145
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.1992_1993insGGAC</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000146"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074081"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074081</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.1992_1993
+      position_genomic:chr11:22291951_22291952
+      Variant/DNA:c.1992_1993insGGAC
+      Variant/DBID:ANO5_000146
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2002del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000147"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074082"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074082</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2002
+      position_genomic:chr11:22291961
+      Variant/DNA:c.2002del
+      Variant/DBID:ANO5_000147
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2029+19T&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000148"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074083"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074083</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2029+19
+      position_genomic:chr11:22292007
+      Variant/DNA:c.2029+19T&gt;G
+      Variant/DBID:ANO5_000148
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2029+26C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000149"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074084"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074084</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2029+26
+      position_genomic:chr11:22292014
+      Variant/DNA:c.2029+26C&gt;T
+      Variant/DBID:ANO5_000149
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2029+39T&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000150"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074085"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074085</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2029+39
+      position_genomic:chr11:22292027
+      Variant/DNA:c.2029+39T&gt;G
+      Variant/DBID:ANO5_000150
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2029+48G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000151"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074086"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074086</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2029+48
+      position_genomic:chr11:22292036
+      Variant/DNA:c.2029+48G&gt;A
+      Variant/DBID:ANO5_000151
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2030-44C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000152"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074087"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074087</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2030-44
+      position_genomic:chr11:22294286
+      Variant/DNA:c.2030-44C&gt;T
+      Variant/DBID:ANO5_000152
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2030-38C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000153"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074088"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074088</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2030-38
+      position_genomic:chr11:22294292
+      Variant/DNA:c.2030-38C&gt;T
+      Variant/DBID:ANO5_000153
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2030-23A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000154"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074089"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074089</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2030-23
+      position_genomic:chr11:22294307
+      Variant/DNA:c.2030-23A&gt;G
+      Variant/DBID:ANO5_000154
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2141C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000156"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074091"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074091</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2141
+      position_genomic:chr11:22294441
+      Variant/DNA:c.2141C&gt;G
+      Variant/DBID:ANO5_000156
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2141del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000155"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074090"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074090</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2141
+      position_genomic:chr11:22294441
+      Variant/DNA:c.2141del
+      Variant/DBID:ANO5_000155
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2235+4A&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000157"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074092"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074092</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2235+4
+      position_genomic:chr11:22294539
+      Variant/DNA:c.2235+4A&gt;C
+      Variant/DBID:ANO5_000157
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2236-20_2236-16del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000158"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074094"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074094</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2236-20
+      position_genomic:chr11:22296095_22296099
+      Variant/DNA:c.2236-20_2236-16del
+      Variant/DBID:ANO5_000158
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2236-19_2236-16del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000159"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074095"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074095</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2236-19
+      position_genomic:chr11:22296096_22296099
+      Variant/DNA:c.2236-19_2236-16del
+      Variant/DBID:ANO5_000159
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2236-17_2236-16dup</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000160"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074097"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074097</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2236-17
+      position_genomic:chr11:22296098_22296099
+      Variant/DNA:c.2236-17_2236-16dup
+      Variant/DBID:ANO5_000160
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2236-16del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000162"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074096"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074096</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2236-16
+      position_genomic:chr11:22296099
+      Variant/DNA:c.2236-16del
+      Variant/DBID:ANO5_000162
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2236-16dup</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000161"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074093"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074093</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2236-16
+      position_genomic:chr11:22296099
+      Variant/DNA:c.2236-16dup
+      Variant/DBID:ANO5_000161
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2255C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000163"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074098"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074098</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2255
+      position_genomic:chr11:22296134
+      Variant/DNA:c.2255C&gt;T
+      Variant/DBID:ANO5_000163
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2256G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000164"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074099"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074099</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2256
+      position_genomic:chr11:22296135
+      Variant/DNA:c.2256G&gt;A
+      Variant/DBID:ANO5_000164
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2259A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000165"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074100"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074100</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2259
+      position_genomic:chr11:22296138
+      Variant/DNA:c.2259A&gt;G
+      Variant/DBID:ANO5_000165
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2273G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000166"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074101"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074101</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2273
+      position_genomic:chr11:22296152
+      Variant/DNA:c.2273G&gt;A
+      Variant/DBID:ANO5_000166
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2275C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000167"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074102"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074102</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2275
+      position_genomic:chr11:22296154
+      Variant/DNA:c.2275C&gt;T
+      Variant/DBID:ANO5_000167
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2285A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000168"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074103"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074103</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2285
+      position_genomic:chr11:22296164
+      Variant/DNA:c.2285A&gt;G
+      Variant/DBID:ANO5_000168
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2354T&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000169"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074104"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074104</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2354
+      position_genomic:chr11:22296233
+      Variant/DNA:c.2354T&gt;G
+      Variant/DBID:ANO5_000169
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2387C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000170"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074105"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074105</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2387
+      position_genomic:chr11:22296266
+      Variant/DNA:c.2387C&gt;T
+      Variant/DBID:ANO5_000170
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2388G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000171"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074106"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074106</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2388
+      position_genomic:chr11:22296267
+      Variant/DNA:c.2388G&gt;A
+      Variant/DBID:ANO5_000171
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2414+3G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000172"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074107"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074107</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2414+3
+      position_genomic:chr11:22296296
+      Variant/DNA:c.2414+3G&gt;A
+      Variant/DBID:ANO5_000172
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2414+5_2414+8del</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000174"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074108"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074108</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2414+5
+      position_genomic:chr11:22296298_22296301
+      Variant/DNA:c.2414+5_2414+8del
+      Variant/DBID:ANO5_000174
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2414+8_2414+9insTT</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000176"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074109"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074109</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2414+8
+      position_genomic:chr11:22296301_22296302
+      Variant/DNA:c.2414+8_2414+9insTT
+      Variant/DBID:ANO5_000176
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2414+30T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000178"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074110"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074110</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2414+30
+      position_genomic:chr11:22296323
+      Variant/DNA:c.2414+30T&gt;C
+      Variant/DBID:ANO5_000178
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2414+47C&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000173"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074111"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074111</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2414+47
+      position_genomic:chr11:22296340
+      Variant/DNA:c.2414+47C&gt;A
+      Variant/DBID:ANO5_000173
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2414+50A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000175"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074112"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074112</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2414+50
+      position_genomic:chr11:22296343
+      Variant/DNA:c.2414+50A&gt;G
+      Variant/DBID:ANO5_000175
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2415-48C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000177"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074113"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074113</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2415-48
+      position_genomic:chr11:22297592
+      Variant/DNA:c.2415-48C&gt;T
+      Variant/DBID:ANO5_000177
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2427C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000179"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074114"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074114</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2427
+      position_genomic:chr11:22297652
+      Variant/DNA:c.2427C&gt;T
+      Variant/DBID:ANO5_000179
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2446G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000180"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074115"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074115</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2446
+      position_genomic:chr11:22297671
+      Variant/DNA:c.2446G&gt;A
+      Variant/DBID:ANO5_000180
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2472A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000181"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074116"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074116</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2472
+      position_genomic:chr11:22297697
+      Variant/DNA:c.2472A&gt;G
+      Variant/DBID:ANO5_000181
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2492C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000182"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074117"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074117</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2492
+      position_genomic:chr11:22297717
+      Variant/DNA:c.2492C&gt;G
+      Variant/DBID:ANO5_000182
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2498T&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000183"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074118"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074118</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2498
+      position_genomic:chr11:22297723
+      Variant/DNA:c.2498T&gt;A
+      Variant/DBID:ANO5_000183
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2503T&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000184"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074119"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074119</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2503
+      position_genomic:chr11:22297728
+      Variant/DNA:c.2503T&gt;G
+      Variant/DBID:ANO5_000184
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2516T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000185"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074120"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074120</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2516
+      position_genomic:chr11:22297741
+      Variant/DNA:c.2516T&gt;C
+      Variant/DBID:ANO5_000185
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2520+19T&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000186"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074121"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074121</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2520+19
+      position_genomic:chr11:22297764
+      Variant/DNA:c.2520+19T&gt;A
+      Variant/DBID:ANO5_000186
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2520+25G&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000187"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074122"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074122</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2520+25
+      position_genomic:chr11:22297770
+      Variant/DNA:c.2520+25G&gt;C
+      Variant/DBID:ANO5_000187
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2520+52A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000188"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074123"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074123</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2520+52
+      position_genomic:chr11:22297797
+      Variant/DNA:c.2520+52A&gt;G
+      Variant/DBID:ANO5_000188
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2521-29G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000189"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074124"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074124</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2521-29
+      position_genomic:chr11:22301061
+      Variant/DNA:c.2521-29G&gt;A
+      Variant/DBID:ANO5_000189
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2521-13A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000190"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074125"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074125</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2521-13
+      position_genomic:chr11:22301077
+      Variant/DNA:c.2521-13A&gt;G
+      Variant/DBID:ANO5_000190
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2521-7C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000191"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074126"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074126</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2521-7
+      position_genomic:chr11:22301083
+      Variant/DNA:c.2521-7C&gt;T
+      Variant/DBID:ANO5_000191
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2540A&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000192"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074127"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074127</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2540
+      position_genomic:chr11:22301109
+      Variant/DNA:c.2540A&gt;C
+      Variant/DBID:ANO5_000192
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2578G&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000193"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074128"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074128</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2578
+      position_genomic:chr11:22301147
+      Variant/DNA:c.2578G&gt;C
+      Variant/DBID:ANO5_000193
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2585T&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000194"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074129"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074129</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2585
+      position_genomic:chr11:22301154
+      Variant/DNA:c.2585T&gt;C
+      Variant/DBID:ANO5_000194
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2610A&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000195"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074130"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074130</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2610
+      position_genomic:chr11:22301179
+      Variant/DNA:c.2610A&gt;G
+      Variant/DBID:ANO5_000195
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2611A&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000196"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074131"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074131</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2611
+      position_genomic:chr11:22301180
+      Variant/DNA:c.2611A&gt;C
+      Variant/DBID:ANO5_000196
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2613G&gt;A</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000197"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074132"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074132</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2613
+      position_genomic:chr11:22301182
+      Variant/DNA:c.2613G&gt;A
+      Variant/DBID:ANO5_000197
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2646C&gt;G</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000198"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074133"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074133</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2646
+      position_genomic:chr11:22301215
+      Variant/DNA:c.2646C&gt;G
+      Variant/DBID:ANO5_000198
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2688C&gt;T</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000199"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074134"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074134</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2688
+      position_genomic:chr11:22301257
+      Variant/DNA:c.2688C&gt;T
+      Variant/DBID:ANO5_000199
+      Times_reported:1
+    </content>
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom">
+    <title>ANO5:c.2698A&gt;C</title>
+    <link rel="alternate" type="text/html" href="http://databases.lovd.nl/whole_genome/variants/ANO5/NM_213599.2?search_VariantOnGenome%2FDBID=ANO5_000200"/>
+    <link rel="self" type="application/atom+xml" href="http://databases.lovd.nl/whole_genome/api/rest.php/variants/ANO5/0001074135"/>
+    <id>tag:databases.lovd.nl,1970-01-01:ANO5/0001074135</id>
+    <author>
+      <name>Unknown</name>
+    </author>
+    <contributor>
+      <name>Unknown</name>
+    </contributor>
+    <published>1970-01-01T00:00:00+01:00</published>
+    <updated>1970-01-01T00:00:00+01:00</updated>
+    <content type="text">
+      symbol:ANO5
+      position_mRNA:NM_213599.2:c.2698
+      position_genomic:chr11:22301267
+      Variant/DNA:c.2698A&gt;C
+      Variant/DBID:ANO5_000200
+      Times_reported:1
+    </content>
+  </entry>
+</feed>

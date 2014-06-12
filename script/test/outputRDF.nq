@@ -1,0 +1,24 @@
+<http://example.org/people/Bob> <http://example.org/people/knows> <http://example.org/people/Linda> <http://example.org/pubInfo> .
+<http://example.org/people/Linda> <http://example.org/people/name> "Linda"^^<http://www.w3.org/2001/XMLSchema#string> <http://example.org/pubInfo> .
+<http://example.org/people/Linda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/people/Person> <http://example.org/pubInfo> .
+<http://example.org/people/Bob> <http://example.org/people/age> "24"^^<http://www.w3.org/2001/XMLSchema#integer> <http://example.org/provenace> .
+<http://example.org/people/Bob> <http://example.org/people/height> "180.4"^^<http://www.w3.org/2001/XMLSchema#double> <http://example.org/provenace> .
+<http://example.org/people/Bob> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/people/Person> <http://example.org/assertion> .
+<http://example.org/people/Bob> <http://example.org/people/name> "Bob"^^<http://www.w3.org/2001/XMLSchema#string> <http://example.org/assertion> .
+
+<http://example.org/people/Bob> <http://example.org/people/knows> <http://example.org/people/Linda> <http://example.org/pubInfo> .
+<http://example.org/people/Linda> <http://example.org/people/name> "Linda"^^<http://www.w3.org/2001/XMLSchema#string> <http://example.org/pubInfo> .
+<http://example.org/people/Linda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/people/Person> <http://example.org/pubInfo> .
+<http://example.org/people/Bob> <http://example.org/people/age> "24"^^<http://www.w3.org/2001/XMLSchema#integer> <http://example.org/provenace> .
+<http://example.org/people/Bob> <http://example.org/people/height> "180.4"^^<http://www.w3.org/2001/XMLSchema#double> <http://example.org/provenace> .
+<http://example.org/people/Bob> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/people/Person> <http://example.org/assertion> .
+<http://example.org/people/Bob> <http://example.org/people/name> "Bob"^^<http://www.w3.org/2001/XMLSchema#string> <http://example.org/assertion> .
+
+<http://example.org/people/Bob> <http://example.org/people/knows> <http://example.org/people/Linda> <http://example.org/pubInfo> .
+<http://example.org/people/Linda> <http://example.org/people/name> "Linda"^^<http://www.w3.org/2001/XMLSchema#string> <http://example.org/pubInfo> .
+<http://example.org/people/Linda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/people/Person> <http://example.org/pubInfo> .
+<http://example.org/people/Bob> <http://example.org/people/age> "24"^^<http://www.w3.org/2001/XMLSchema#integer> <http://example.org/provenace> .
+<http://example.org/people/Bob> <http://example.org/people/height> "180.4"^^<http://www.w3.org/2001/XMLSchema#double> <http://example.org/provenace> .
+<http://example.org/people/Bob> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/people/Person> <http://example.org/assertion> .
+<http://example.org/people/Bob> <http://example.org/people/name> "Bob"^^<http://www.w3.org/2001/XMLSchema#string> <http://example.org/assertion> .
+

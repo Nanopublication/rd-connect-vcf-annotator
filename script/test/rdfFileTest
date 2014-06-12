@@ -1,0 +1,73 @@
+from rdflib import URIRef, BNode, Literal, XSD
+from rdflib.namespace import RDF
+from rdflib import Namespace
+from rdflib import Graph
+from rdflib import ConjunctiveGraph
+from rdflib import Dataset
+import gzip
+
+
+
+
+# Namespace
+FOAF = Namespace("http://example.org/people/")
+
+# URI
+bob = URIRef("http://example.org/people/Bob")
+linda = URIRef("http://example.org/people/Linda")
+ctnx = URIRef("http://example.org/graph")
+
+assertionURI = URIRef("http://example.org/assertion")
+provenaceURI = URIRef("http://example.org/provenace")
+pubInfoURI = URIRef("http://example.org/pubInfo")
+
+#dataset
+tempStore = Dataset()
+
+#graph
+assertion = ConjunctiveGraph('IOMemory', assertionURI)
+provenace = ConjunctiveGraph('IOMemory', provenaceURI)
+pubInfo = ConjunctiveGraph('IOMemory', pubInfoURI)
+
+# adding triples
+assertion.add( (bob, RDF.type, FOAF.Person) )
+assertion.add( (bob, FOAF.name, Literal('Bob', datatype=XSD.string)) )
+
+provenace.add( (bob, FOAF.age, Literal(24)) )
+provenace.add( (bob, FOAF.height, Literal(180.4)) )
+
+pubInfo.add( (bob, FOAF.knows, linda) )
+pubInfo.add( (linda, RDF.type, FOAF.Person) )
+pubInfo.add( (linda, FOAF.name, Literal('Linda', datatype=XSD.string) ) )
+
+tempStore.add_graph(assertion)
+tempStore.add_graph(provenace)
+tempStore.add_graph(pubInfo)
+
+print (tempStore.serialize(format='nquads'))
+
+literal = Literal(24, datatype=XSD.int)
+
+data = tempStore.serialize(format='nquads')
+
+print data
+
+file = open("outputRDF.nq", "w")
+for x in range(0, 3):
+        file.write(data)
+file.close()
+
+f = gzip.open('outputRDF.nq.gz', 'w')
+for x in range(0, 3):
+    f.write(data)
+f.close()
+
+
+# print 'creating archive'
+# zf = zipfile.ZipFile('zipfile_write.zip', mode='w')
+# try:
+#     print 'adding '+file.name
+#     zf.write(tempStore.serialize(format='nquads'))
+# finally:
+#     print 'closing'
+#     zf.close()
