@@ -28,6 +28,8 @@ class VCFTssAnnotation():
             variantSubType = record.var_subtype
             isOverlapping = False
 
+
+
             # Adding chr prefix to the chromosome
             if "chr" not in variantChromosome:
                 variantChromosome = "chr"+str(record.CHROM)
