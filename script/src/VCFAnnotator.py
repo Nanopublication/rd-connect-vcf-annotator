@@ -115,7 +115,7 @@ if __name__ == "__main__":
 
 
 #test = VCFAnnotator('/home/rajaram/work/rd-connect-vcf-annotator/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/home/rajaram/work/rd-connect-vcf-annotator/output/output1.vcf')
-test = VCFAnnotator('/Users/mark/rdconnect/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/tmp/output1.vcf')
+#test = VCFAnnotator('/Users/mark/rdconnect/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/tmp/output1.vcf')
 
-#test = VCFAnnotator(argv[1], argv[2])
+test = VCFAnnotator(argv[1], argv[2])
 test.add_annotation()
