@@ -7,7 +7,7 @@ import vcf
 import Fantom5Nanopublication
 import sparql
 import sys
-
+import time
 """
 <p>
 Takes VCF file has a input, adds extra annotation to the VCF #INFO column.
@@ -28,7 +28,7 @@ class VCFAnnotator:
 
         self.inputFile = inputFile
         self.outputFile = outputFile
-        self.fantom5NP = Fantom5Nanopublication.Fantom5Nanopublication('http://localhost:8890/sparql')
+        self.fantom5NP = Fantom5Nanopublication.Fantom5Nanopublication('http://145.100.57.2:8890/sparql')
 
     """
     <p>
@@ -50,10 +50,11 @@ class VCFAnnotator:
 
         varTSSOL = 0
         varNoTSSOL = 0
-
+        cnt = 0
+        cnt_block = 10
+        t1 = time.time()
 
         for record in vcfReader:
-
             isOverlapping =  self.is_overlapping_with_tss(record)
 
             if (isOverlapping):
@@ -68,6 +69,14 @@ class VCFAnnotator:
 
             print "Variant checked = "+str(varTSSOL+varNoTSSOL)
             print "Variant TSS overlaps = "+str(varTSSOL)
+
+            if cnt % cnt_block == 1:
+                print "counter"
+                t2 = time.time()
+                ips = cnt_block / (t2-t1)
+                print "speed: %.2f iters/s = %d iters p/h = %.1f hours/million iters" % (ips, ips*3600, 1000000/ips/3600)
+                t1 = time.time()
+            cnt += 1
 
         vcfWriter.close()
 
@@ -115,5 +124,7 @@ class VCFAnnotator:
 
 
 #test = VCFAnnotator('/home/rajaram/work/rd-connect-vcf-annotator/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/home/rajaram/work/rd-connect-vcf-annotator/output/output1.vcf')
-test = VCFAnnotator(argv[1], argv[2])
+test = VCFAnnotator('/Users/mark/rdconnect/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/tmp/output1.vcf')
+
+#test = VCFAnnotator(argv[1], argv[2])
 test.add_annotation()
