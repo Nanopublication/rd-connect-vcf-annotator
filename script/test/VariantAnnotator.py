@@ -8,7 +8,7 @@ class VCFTssAnnotation():
 
     def addTSSInfo(self, vcfInputFile):
         vcf_reader = vcf.Reader(open(vcfInputFile, 'r'))
-        vcf_reader.infos['TSSOL'] = VcfInfo('TSSOL', vcf_field_counts['A'], 'Boolean',
+        vcf_reader.infos['TSSOL'] = VcfInfo('TSSOL', vcf_field_counts['A'], 'String',
                                             'Info indicates whether the variant overlapping with the'
                                             ' transcription start site(TSS)')
 
