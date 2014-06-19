@@ -27,7 +27,7 @@ class VCFAnnotator:
 
         self.inputFile = inputFile
         self.outputFile = outputFile
-        self.fantom5NP = Fantom5Nanopublication.Fantom5Nanopublication('http://ep.dbcls.jp/fantom5/sparql')
+        self.fantom5NP = Fantom5Nanopublication.Fantom5Nanopublication('http://localhost:8890/sparql')
 
     """
     <p>
@@ -36,21 +36,39 @@ class VCFAnnotator:
     """
     def add_annotation(self):
 
-        vcf_reader = vcf.Reader(open(self.inputFile, 'r'))
-        vcf_reader.infos['TSSOL'] = VcfInfo('TSSOL', vcf_field_counts['A'], 'Boolean',
+        vcfReader = vcf.Reader(open(self.inputFile, 'r'))
+        """
+        How to add info header
+         <http://www.1000genomes.org/wiki/Analysis/Variant%20Call%20Format/vcf-variant-call-format-version-41>
+        """
+        vcfReader.infos['TSSOL'] = VcfInfo('TSSOL', vcf_field_counts['A'], 'String',
                                             'Info indicates whether the variant overlapping with the'
                                             ' transcription start site(TSS)')
 
-        vcf_writer = vcf.VCFWriter(open(self.outputFile, 'w'), vcf_reader)
+        vcfWriter = vcf.VCFWriter(open(self.outputFile, 'w'), vcfReader)
+
+        varTSSOL = 0
+        varNoTSSOL = 0
 
 
-        for record in vcf_reader:
+        for record in vcfReader:
 
             isOverlapping =  self.is_overlapping_with_tss(record)
-            record.add_info('TSSOL', [isOverlapping])
-            vcf_writer.write_record(record)
 
-        vcf_writer.close()
+            if (isOverlapping):
+                varTSSOL = varTSSOL+1
+            else:
+                varNoTSSOL = varNoTSSOL+1
+
+
+
+            record.add_info('TSSOL', [isOverlapping])
+            vcfWriter.write_record(record)
+
+            print "Variant checked = "+str(varTSSOL+varNoTSSOL)
+            print "Variant TSS overlaps = "+str(varTSSOL)
+
+        vcfWriter.close()
 
     """
     <p>
@@ -67,6 +85,10 @@ class VCFAnnotator:
         variantEnd = record.end
         variantChromosome = record.CHROM
         variantSubType = record.var_subtype
+
+        # Adding chr prefix to the chromosome
+        if "chr" not in variantChromosome:
+            variantChromosome = "chr"+str(record.CHROM)
 
         # SPARQL query
         result = self.fantom5NP.get_tss(variantChromosome, variantStart, variantEnd)
@@ -91,5 +113,5 @@ class VCFAnnotator:
 
 
 
-test = VCFAnnotator('../test/example.vcf', '../test/output1.vcf')
+test = VCFAnnotator('/home/rajaram/work/rd-connect-vcf-annotator/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/home/rajaram/work/rd-connect-vcf-annotator/output/output1.vcf')
 test.add_annotation()

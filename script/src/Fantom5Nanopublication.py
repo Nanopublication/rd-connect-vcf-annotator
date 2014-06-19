@@ -41,6 +41,8 @@ class Fantom5Nanopublication:
         query = query.replace("?variantEnd", str(end))
         query = query.replace("?variantChromosome", str("hg19:"+chromosome))
 
+        #print query
+
         # Quering the SPARQL endpoint
         result = sparql.query(self.endpoint, query)
 
