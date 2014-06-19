@@ -6,6 +6,7 @@ from vcf.parser import _Info as VcfInfo, field_counts as vcf_field_counts
 import vcf
 import Fantom5Nanopublication
 import sparql
+import sys
 
 """
 <p>
@@ -113,5 +114,6 @@ class VCFAnnotator:
 
 
 
-test = VCFAnnotator('/home/rajaram/work/rd-connect-vcf-annotator/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/home/rajaram/work/rd-connect-vcf-annotator/output/output1.vcf')
+#test = VCFAnnotator('/home/rajaram/work/rd-connect-vcf-annotator/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/home/rajaram/work/rd-connect-vcf-annotator/output/output1.vcf')
+test = VCFAnnotator(argv[1], argv[2])
 test.add_annotation()
