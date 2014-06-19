@@ -5,37 +5,30 @@ __author__ = 'Eelke van der Horst'
 from vcf.parser import _Info as VcfInfo, field_counts as vcf_field_counts
 import vcf
 import Fantom5Nanopublication
-import sparql
+import Variant
 import sys
 import time
-"""
-<p>
-Takes VCF file has a input, adds extra annotation to the VCF #INFO column.
-</p>
-"""
+
 
 class VCFAnnotator:
+    """Takes VCF file has a input, adds extra annotation to the VCF #INFO column."""
 
-    """
-    <p>
-    Class Constructor
-    </p>
-
-    @params inputFile   :   Input VCF file name with full path
-    @params outputFile  :   Output VCF file name with full path
-    """
-    def __init__(self, inputFile, outputFile):
-
+    def __init__(self, inputFile, outputFile, endpoint):
+        """VCFAnnotator Constructor
+    
+        @params inputFile   :   Input VCF file name with full path
+        @params outputFile  :   Output VCF file name with full path
+        """
         self.inputFile = inputFile
         self.outputFile = outputFile
-        self.fantom5NP = Fantom5Nanopublication.Fantom5Nanopublication('http://145.100.57.2:8890/sparql')
+        self.fantom5NP = Fantom5Nanopublication.Fantom5Nanopublication(endpoint)
 
-    """
-    <p>
-    Read the input VCF file, add annotations to the #INFO column and write it back to the output VCF file.
-    </p>
-    """
     def add_annotation(self):
+        """
+        <p>
+        Read the input VCF file, add annotations to the #INFO column and write it back to the output VCF file.
+        </p>
+        """
 
         vcfReader = vcf.Reader(open(self.inputFile, 'r'))
         """
@@ -55,14 +48,15 @@ class VCFAnnotator:
         t1 = time.time()
 
         for record in vcfReader:
-            isOverlapping =  self.is_overlapping_with_tss(record)
+            isOverlapping = False
+            urlList =  self.get_overlapping_tss_urls(record)
 
-            if (isOverlapping):
-                varTSSOL = varTSSOL+1
-            else:
+            if (len(urlList) == 0):
                 varNoTSSOL = varNoTSSOL+1
 
-
+            else:
+                varTSSOL = varTSSOL+1
+                isOverlapping = True
 
             record.add_info('TSSOL', [isOverlapping])
             vcfWriter.write_record(record)
@@ -79,44 +73,41 @@ class VCFAnnotator:
             cnt += 1
 
         vcfWriter.close()
+        
 
-    """
-    <p>
-    Check if the variant is overlapping with the transcription start site (TSS).
-
-    <i>Note: No overlapping rule => If the variant is of type insert(ins) and the variant start is before TSS start</i>
-    </p>
-    """
-    def is_overlapping_with_tss(self, record):
+    def get_overlapping_tss_urls(self, record):
+        """
+        <p>
+        Check if the variant is overlapping with the transcription start site (TSS).
+    
+        <i>Note: No overlapping rule => If the variant is of type insert(ins) and the variant start is before TSS start</i>
+        </p>
+        """
 
         isOverlapping = False
 
-        variantStart = record.start+1
-        variantEnd = record.end
-        variantChromosome = record.CHROM
-        variantSubType = record.var_subtype
-
-        # Adding chr prefix to the chromosome
-        if "chr" not in variantChromosome:
-            variantChromosome = "chr"+str(record.CHROM)
-
+        variant = Variant.Variant(record)
+        
+        resultList = []
+        
         # SPARQL query
-        result = self.fantom5NP.get_tss(variantChromosome, variantStart, variantEnd)
+        tssList = self.fantom5NP.get_tss(variant.chromosome, variant.start, variant.end)
 
-        for row in result:
+        for tss in tssList:
+            isOverlapping = variant.overlaps(tss)
+            
+            if isOverlapping:
+                resultList.append(tss.cageClusterURI)
+            
+        return resultList
 
-            values = sparql.unpack_row(row)
-            cageStart = values[1]
-            cageEnd = values[2]
 
-            if ((variantSubType == 'ins') & ( variantStart > cageStart )):
-                isOverlapping = True
-                break
-            elif ((variantSubType != 'ins')):
-                isOverlapping = True
-            break
+if __name__ == "__main__":
+    """VCFAnnotator main"""
 
-        return isOverlapping
+    #test = VCFAnnotator('/home/rajaram/work/rd-connect-vcf-annotator/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/home/rajaram/work/rd-connect-vcf-annotator/output/output1.vcf')
+    test = VCFAnnotator(sys.argv[1], sys.argv[2], sys.argv[3])
+    test.add_annotation()
 
 
 
