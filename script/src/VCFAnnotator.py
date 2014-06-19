@@ -49,9 +49,10 @@ class VCFAnnotator:
             urlList =  self.get_overlapping_tss_urls(record)
 
             if (len(urlList) == 0):
-                varTSSOL = varTSSOL+1
-            else:
                 varNoTSSOL = varNoTSSOL+1
+
+            else:
+                varTSSOL = varTSSOL+1
                 isOverlapping = True
 
             record.add_info('TSSOL', [isOverlapping])
