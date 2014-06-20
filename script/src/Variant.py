@@ -21,6 +21,7 @@ class Variant():
                          (self.start >= tss.start and self.start <= tss.end) or \
                          (self.start < tss.start and self.end > tss.end)
 
+
         if not region_overlap:
             return False
         # special case for variants that are inserts

@@ -1,0 +1,31 @@
+PREFIX np: <http://www.nanopub.org/nschema#>
+PREFIX rso: <http://rdf.biosemantics.org/ontologies/referencesequence#>
+PREFIX so: <http://purl.org/obo/owl/SO#>
+PREFIX ff: <http://purl.obolibrary.org/obo/>
+PREFIX entGene: <http://linkedlifedata.com/resource/entrezgene/>
+PREFIX lldRel: <http://linkedlifedata.com/resource/relationontology/>
+PREFIX uniprot: <http://purl.uniprot.org/taxonomy/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX hg19: <http://rdf.biosemantics.org/data/genomeassemblies/hg19#>
+
+
+select  ?sample where {
+
+{
+
+
+  graph ?rikenAssertion3 { # Type 3 Nanopublicatons
+    ?cageCluster so:associated_with ?measurementValues;
+                 rso:observed_in ?sample.
+    ?measurementValues ff:IAO_0000004 ?tpmValue.
+
+    FILTER (?tpmValue > 0)
+  }
+
+
+
+
+}
+
+}

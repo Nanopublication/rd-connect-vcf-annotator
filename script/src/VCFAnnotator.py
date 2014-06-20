@@ -38,6 +38,12 @@ class VCFAnnotator:
         vcfReader.infos['TSSOL'] = VcfInfo('TSSOL', vcf_field_counts['A'], 'String',
                                             'Info indicates whether the variant overlapping with the'
                                             ' transcription start site(TSS)')
+        vcfReader.infos['CCURI'] = VcfInfo('CCURI', vcf_field_counts['A'], 'String',
+                                            'Info includes the URL of the cage cluster to which the'
+                                            ' variant overlapping')
+        vcfReader.infos['SAMPURI'] = VcfInfo('SAMPURI', vcf_field_counts['A'], 'String',
+                                            'Info includes the URL of the samples with to which the'
+                                            ' variant overlapping')
 
         vcfWriter = vcf.VCFWriter(open(self.outputFile, 'w'), vcfReader)
 
@@ -58,11 +64,18 @@ class VCFAnnotator:
                 varTSSOL = varTSSOL+1
                 isOverlapping = True
 
+            if isOverlapping:
+                record.add_info('CCURI', urlList)
+                record.add_info('SAMPURI', self.get_samples_url(urlList))
+
+
+
+
             record.add_info('TSSOL', [isOverlapping])
             vcfWriter.write_record(record)
 
             print "Variant checked = "+str(varTSSOL+varNoTSSOL)
-            print "Variant TSS overlaps = "+str(varTSSOL)
+            print "Variant overlaps with TSS  = "+str(varTSSOL)
 
             if cnt % cnt_block == 1:
                 print "counter"
@@ -100,6 +113,19 @@ class VCFAnnotator:
                 resultList.append(tss.cageClusterURI)
             
         return resultList
+
+
+    def get_samples_url(self, tssUriList):
+        resultList = []
+        samples = set()
+
+        for cageCluster in tssUriList:
+            # SPARQL query
+            sampleList = self.fantom5NP.get_sample(cageCluster)
+            for sample in sampleList:
+                samples.add(sample)
+
+        return samples
 
 
 if __name__ == "__main__":

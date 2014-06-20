@@ -5,6 +5,7 @@ __author__ = 'Eelke van der Horst'
 
 import sparql
 import TSS
+from SPARQLWrapper import SPARQLWrapper, JSON
 
 
 class Fantom5Nanopublication:
@@ -61,7 +62,32 @@ class Fantom5Nanopublication:
             cageOrientation = values[4]
 
             tss = TSS.TSS(cageClusterURL, cageChromosome, cageStart, cageEnd, cageOrientation)
-
             tssList.append(tss)
 
         return tssList
+
+
+    def get_sample(self, cageClusterURI):
+        """<p>
+        Get samples with tpmValue > 0 for the given cage cluster URI.
+        </p>
+
+        @params cageClusterURI  :   Cage cluster URI
+                                    (Eg. http://rdf.biosemantics.org/resource/riken/fantom5/cage_cluster_43878)
+        """
+        sampleList = []
+        sparql = SPARQLWrapper(self.endpoint)
+        queryTemplatefile = open("../resources/sparqlQueries/fantom5SamplesForCageCluster", "r")
+        query = queryTemplatefile.read()
+        query = query.replace("?cageCluster", "<"+str(cageClusterURI)+">")
+        sparql.setQuery(query)
+        sparql.setReturnFormat(JSON)
+        # Quering the SPARQL endpoint
+        results = sparql.query().convert()
+
+
+        for result in results["results"]["bindings"]:
+            sample = result["sample"]["value"]
+            sampleList.append(sample)
+
+        return sampleList
