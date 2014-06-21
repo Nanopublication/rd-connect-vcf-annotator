@@ -3,10 +3,8 @@ __author__ = 'Rajaram Kaliyaperumal'
 __author__ = 'Mark Thompson'
 __author__ = 'Eelke van der Horst'
 
-import sparql
 import TSS
 from SPARQLWrapper import SPARQLWrapper, JSON
-
 
 class Fantom5Nanopublication:
     """
@@ -44,24 +42,20 @@ class Fantom5Nanopublication:
         query = query.replace("?variantEnd", str(end))
         query = query.replace("?variantChromosome", str("hg19:"+chromosome))
 
-        #print query
-
+        sparql = SPARQLWrapper(self.endpoint)
+        sparql.setQuery(query)
+        sparql.setReturnFormat(JSON)
         # Quering the SPARQL endpoint
-        queryResult = sparql.query(self.endpoint, query)
+        results = sparql.query().convert()
 
         tssList = []
-
-        for row in queryResult:
-
-            values = sparql.unpack_row(row)
-
-            cageClusterURL = values[0]
-            cageStart = values[1]
-            cageEnd = values[2]
-            cageChromosome = values[3]
-            cageOrientation = values[4]
-
-            tss = TSS.TSS(cageClusterURL, cageChromosome, cageStart, cageEnd, cageOrientation)
+        for result in results["results"]["bindings"]:
+            print result["cageCluster"]["value"], result["cageChromosome"]["value"],\
+                  result["cageStart"]["value"], result["cageEnd"]["value"],\
+                  result["cageOrientation"]["value"]
+            tss = TSS.TSS(result["cageCluster"]["value"], result["cageChromosome"]["value"],
+                          int(result["cageStart"]["value"]) , int(result["cageEnd"]["value"]),
+                          result["cageOrientation"]["value"])
             tssList.append(tss)
 
         return tssList

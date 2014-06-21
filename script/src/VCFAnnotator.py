@@ -8,20 +8,28 @@ import Fantom5Nanopublication
 import Variant
 import sys
 import time
+from multiprocessing import Pool
+import itertools
+
+def parallel_annotation_caller(arg, **kwarg):
+    return VCFAnnotator.get_annotation(*arg, **kwarg)
 
 
 class VCFAnnotator:
     """Takes VCF file has a input, adds extra annotation to the VCF #INFO column."""
 
-    def __init__(self, inputFile, outputFile, endpoint):
+    def __init__(self, inputFile, outputFile, endpoint, n_parallel=5):
         """VCFAnnotator Constructor
     
         @params inputFile   :   Input VCF file name with full path
         @params outputFile  :   Output VCF file name with full path
         """
+        self.n_parallel = n_parallel
         self.inputFile = inputFile
         self.outputFile = outputFile
         self.fantom5NP = Fantom5Nanopublication.Fantom5Nanopublication(endpoint)
+        self.varTSSOL = 0
+        self.varNoTSSOL = 0
 
     def add_annotation(self):
         """
@@ -36,57 +44,63 @@ class VCFAnnotator:
          <http://www.1000genomes.org/wiki/Analysis/Variant%20Call%20Format/vcf-variant-call-format-version-41>
         """
         vcfReader.infos['TSSOL'] = VcfInfo('TSSOL', vcf_field_counts['A'], 'String',
-                                            'Info indicates whether the variant overlapping with the'
-                                            ' transcription start site(TSS)')
+                                           'Info indicates whether the variant overlapping with the'
+                                           ' transcription start site(TSS)')
         vcfReader.infos['CCURI'] = VcfInfo('CCURI', vcf_field_counts['A'], 'String',
-                                            'Info includes the URL of the cage cluster to which the'
-                                            ' variant overlapping')
+                                           'Info includes the URL of the cage cluster to which the'
+                                           ' variant overlapping')
         vcfReader.infos['SAMPURI'] = VcfInfo('SAMPURI', vcf_field_counts['A'], 'String',
-                                            'Info includes the URL of the samples with to which the'
-                                            ' variant overlapping')
+                                             'Info includes the URL of the samples with to which the'
+                                             ' variant overlapping')
 
         vcfWriter = vcf.VCFWriter(open(self.outputFile, 'w'), vcfReader)
 
-        varTSSOL = 0
-        varNoTSSOL = 0
         cnt = 0
         cnt_block = 10
         t1 = time.time()
 
+        #pool = Pool(self.n_parallel)
+        #batch = list(itertools.islice(vcfReader, self.n_parallel))
+        #res = pool.map(parallel_annotation_caller, zip([self]*len(batch), batch))
+
         for record in vcfReader:
-            isOverlapping = False
-            urlList =  self.get_overlapping_tss_urls(record)
+            vcfWriter.write_record(self.get_annotation(record))
 
-            if (len(urlList) == 0):
-                varNoTSSOL = varNoTSSOL+1
-
-            else:
-                varTSSOL = varTSSOL+1
-                isOverlapping = True
-
-            if isOverlapping:
-                record.add_info('CCURI', urlList)
-                record.add_info('SAMPURI', self.get_samples_url(urlList))
-
-
-
-
-            record.add_info('TSSOL', [isOverlapping])
-            vcfWriter.write_record(record)
-
-            print "Variant checked = "+str(varTSSOL+varNoTSSOL)
-            print "Variant overlaps with TSS  = "+str(varTSSOL)
-
-            if cnt % cnt_block == 1:
-                print "counter"
-                t2 = time.time()
-                ips = cnt_block / (t2-t1)
-                print "speed: %.2f iters/s = %d iters p/h = %.1f hours/million iters" % (ips, ips*3600, 1000000/ips/3600)
-                t1 = time.time()
-            cnt += 1
+        if cnt % cnt_block == 1:
+            t2 = time.time()
+            ips = cnt_block / (t2 - t1)
+            print "speed: %.2f iters/s = %d iters p/h = %.1f hours/million iters" % \
+                  (ips, ips * 3600, 1000000 / ips / 3600)
+            t1 = time.time()
+        cnt += 1
 
         vcfWriter.close()
-        
+
+
+    def get_annotation(self, record):
+        if not record:
+            return None
+
+        isOverlapping = False
+        urlList = self.get_overlapping_tss_urls(record)
+
+        if len(urlList) == 0:
+            self.varNoTSSOL = self.varNoTSSOL + 1
+
+        else:
+            self.varTSSOL = self.varTSSOL + 1
+            isOverlapping = True
+
+        if isOverlapping:
+            record.add_info('CCURI', urlList)
+            record.add_info('SAMPURI', list(self.get_samples_url(urlList)))
+
+        record.add_info('TSSOL', [isOverlapping])
+
+        print "Variant checked = " + str(self.varTSSOL + self.varNoTSSOL)
+        print "Variant overlaps with TSS  = " + str(self.varTSSOL)
+        return record
+
 
     def get_overlapping_tss_urls(self, record):
         """
@@ -100,18 +114,21 @@ class VCFAnnotator:
         isOverlapping = False
 
         variant = Variant.Variant(record)
-        
+
         resultList = []
-        
+
         # SPARQL query
         tssList = self.fantom5NP.get_tss(variant.chromosome, variant.start, variant.end)
 
         for tss in tssList:
+            print variant.start, "-", variant.end
             isOverlapping = variant.overlaps(tss)
-            
+            print "overlaps? ", isOverlapping
+
             if isOverlapping:
+                print "is Overlapping!"
                 resultList.append(tss.cageClusterURI)
-            
+
         return resultList
 
 
@@ -131,7 +148,7 @@ class VCFAnnotator:
 if __name__ == "__main__":
     """VCFAnnotator main"""
 
-    #test = VCFAnnotator('/home/rajaram/work/rd-connect-vcf-annotator/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/home/rajaram/work/rd-connect-vcf-annotator/output/output1.vcf')
-    #test = VCFAnnotator('/Users/mark/rdconnect/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/tmp/output1.vcf')
+    # test = VCFAnnotator('/home/rajaram/work/rd-connect-vcf-annotator/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/home/rajaram/work/rd-connect-vcf-annotator/output/output1.vcf')
+    # test = VCFAnnotator('/Users/mark/rdconnect/input/UseCases/DNC0040.allchr.snpEff.p.vcf.gz', '/tmp/output1.vcf')
     test = VCFAnnotator(sys.argv[1], sys.argv[2], sys.argv[3])
     test.add_annotation()
