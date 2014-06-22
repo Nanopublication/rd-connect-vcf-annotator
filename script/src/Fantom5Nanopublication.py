@@ -46,7 +46,14 @@ class Fantom5Nanopublication:
         sparql.setQuery(query)
         sparql.setReturnFormat(JSON)
         # Quering the SPARQL endpoint
-        results = sparql.query().convert()
+        while True:
+            try:
+                results = sparql.query().convert()
+                break
+            except Exception as e:
+                print e.message
+                print "Going to sleep one second and then try again"
+                time.sleep(1)
 
         tssList = []
         for result in results["results"]["bindings"]:
@@ -77,8 +84,14 @@ class Fantom5Nanopublication:
         sparql.setQuery(query)
         sparql.setReturnFormat(JSON)
         # Quering the SPARQL endpoint
-        results = sparql.query().convert()
-
+        while True:
+            try:
+                results = sparql.query().convert()
+                break
+            except Exception as e:
+                print e.message
+                print "Going to sleep one second and then try again"
+                time.sleep(1)
 
         for result in results["results"]["bindings"]:
             sample = result["sample"]["value"]
