@@ -66,13 +66,13 @@ class VCFAnnotator:
         for record in vcfReader:
             vcfWriter.write_record(self.get_annotation(record))
 
-        if cnt % cnt_block == 1:
-            t2 = time.time()
-            ips = cnt_block / (t2 - t1)
-            print "speed: %.2f iters/s = %d iters p/h = %.1f hours/million iters" % \
-                  (ips, ips * 3600, 1000000 / ips / 3600)
-            t1 = time.time()
-        cnt += 1
+            if cnt % cnt_block == 1:
+                t2 = time.time()
+                ips = cnt_block / (t2 - t1)
+                print "speed: %.2f iters/s = %d iters p/h = %.1f hours/million iters" % \
+                      (ips, ips * 3600, 1000000 / ips / 3600)
+                t1 = time.time()
+            cnt += 1
 
         vcfWriter.close()
 
