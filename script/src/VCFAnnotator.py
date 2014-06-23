@@ -56,7 +56,7 @@ class VCFAnnotator:
         vcfWriter = vcf.VCFWriter(open(self.outputFile, 'w'), vcfReader)
 
         cnt = 0
-        cnt_block = 10
+        cnt_block = 100
         t1 = time.time()
 
         #pool = Pool(self.n_parallel)
@@ -114,6 +114,7 @@ class VCFAnnotator:
         isOverlapping = False
 
         variant = Variant.Variant(record)
+        print "start: ", variant.start, " end: ", variant.end, " type: ", variant.type
 
         resultList = []
 
