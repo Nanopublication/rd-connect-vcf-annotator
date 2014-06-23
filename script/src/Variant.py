@@ -6,7 +6,7 @@ import TSS
 
 class Variant():
     def __init__(self, record):
-        self.start = record.start
+        self.start = record.start+1
         self.end = record.end
         self.chromosome = record.CHROM
         self.type = record.var_subtype
