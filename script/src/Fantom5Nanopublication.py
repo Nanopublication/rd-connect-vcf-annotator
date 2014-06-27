@@ -5,6 +5,7 @@ __author__ = 'Eelke van der Horst'
 
 import TSS
 from SPARQLWrapper import SPARQLWrapper, JSON
+import time
 
 class Fantom5Nanopublication:
     """
